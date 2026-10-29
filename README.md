@@ -69,7 +69,7 @@ Co-founder & Líder de Tecnologia na [Abillyting Marketing](https://abillytingma
 
 ### 📬 Vamos conversar?
 
-- 🏢 **Empresa:** [Abillyting Marketing](https://abillyting.com.br)
+- 🏢 **Empresa:** [Abillyting Marketing](https://abillytingmarketing.com.br)
 - 💼 **LinkedIn:** [linkedin.com/in/yuribacil](https://linkedin.com/in/yuribacil)
 - ✉️ **E-mail:** [yuribacil1998@gmail.com](mailto:yuribacil1998@gmail.com)
 - 🌐 **GitHub:** [@YuriBacil](https://github.com/YuriBacil)
